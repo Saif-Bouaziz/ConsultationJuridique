@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\bin\Debug\net6.0\Consultation.Service.deps.json
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\bin\Debug\net6.0\Consultation.Service.dll
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\bin\Debug\net6.0\ref\Consultation.Service.dll
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\bin\Debug\net6.0\Consultation.Service.pdb
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\obj\Debug\net6.0\Consultation.Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\obj\Debug\net6.0\Consultation.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\obj\Debug\net6.0\Consultation.Service.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\obj\Debug\net6.0\Consultation.Service.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\obj\Debug\net6.0\Consultation.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\obj\Debug\net6.0\Consultation.Service.dll
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\obj\Debug\net6.0\ref\Consultation.Service.dll
+C:\Users\Lenovo\Documents\ConsultationAvocat\Consultation.Service\obj\Debug\net6.0\Consultation.Service.pdb

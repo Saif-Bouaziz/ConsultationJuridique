@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "632e827f-4ad3-42ae-9d11-3dfef31b5fd6": {
+      "ProjectGuid": "632e827f-4ad3-42ae-9d11-3dfef31b5fd6",
+      "DisplayName": "ConsultationAvocat",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "f606cd11-409a-4fc8-b6fc-3f52c283dcb4": {
+      "ProjectGuid": "f606cd11-409a-4fc8-b6fc-3f52c283dcb4",
+      "DisplayName": "Consultation.Service",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

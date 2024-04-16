@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultationAvocat", "ConsultationAvocat\ConsultationAvocat.csproj", "{632E827F-4AD3-42AE-9D11-3DFEF31B5FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consultation.Service", "Consultation.Service\Consultation.Service.csproj", "{F606CD11-409A-4FC8-B6FC-3F52C283DCB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632E827F-4AD3-42AE-9D11-3DFEF31B5FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632E827F-4AD3-42AE-9D11-3DFEF31B5FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632E827F-4AD3-42AE-9D11-3DFEF31B5FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632E827F-4AD3-42AE-9D11-3DFEF31B5FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F606CD11-409A-4FC8-B6FC-3F52C283DCB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F606CD11-409A-4FC8-B6FC-3F52C283DCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F606CD11-409A-4FC8-B6FC-3F52C283DCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F606CD11-409A-4FC8-B6FC-3F52C283DCB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D1178EC-6CED-4D84-B21B-116B7DECD000}
+	EndGlobalSection
+EndGlobal
